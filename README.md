@@ -8,7 +8,7 @@ TEAM LEADER - Soumalya Bhattacharyya(Github Username - soubhatta19)
 
 2nd TEAMMATE - Soumik Ghosh(GitHub Username - Soumik-Ghosh07)
 
-2nd TEAMMATE - Ashish Manna(GitHub Username - Bidyut2022)
+3rd TEAMMATE - Ashish Manna(GitHub Username - Bidyut2022)
 
 # PROJECT TOPIC - Disaster Management Platform
 
