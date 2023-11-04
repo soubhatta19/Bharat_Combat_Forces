@@ -5,15 +5,12 @@ Website Development Project for Hackout Hackathon
 # TEAM NAME - Eklavya Hackers
 TEAM LEADER - Soumalya Bhattacharyya(Github Username - soubhatta19)
 
-2nd TEAMMATE - Soumik Ghosh(GitHub Username - soubanj270)
+2nd TEAMMATE - Soumik Ghosh(GitHub Username - Soumik-Ghosh07)
 
 2nd TEAMMATE - Ashish Manna(GitHub Username - Bidyut2022)
 
-# THEME - Disaster Management Platform
+# PROJECT TOPIC - Disaster Management Platform
 Crisis Recovery/Disaster Response Systems
-
-# PROBLEM STATEMENT 
-Create a platform that helps communities prepare for and respond to natural disasters or emergencies, improving communication, coordination, and resource allocation during critical times by using a network connected devices to receive and send diagnostics and information while also being able to coordinate with rescue teams to adequately and timely respond to these emergencies, help in distributing aid and helping in visually analyzing the affected areas to predict further onset of such calamities.
 
  # WEB DEVELOPMENT PROJECT - Bharat Combat Forces
 
