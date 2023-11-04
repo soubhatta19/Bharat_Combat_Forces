@@ -14,7 +14,14 @@ TEAM LEADER - Soumalya Bhattacharyya(Github Username - soubhatta19)
 
 Crisis Recovery/Disaster Response Systems for calamity affected people
 
-# DECLARATION -
+# DECLARATION 
+
+The basic structured backbone of HTML and CSS codes were mostly prebuilt by me and my teammates.
+But most of the unique features like Emergency SOS System,Designing Layouts,GPS Google Maps and API Integration that we specifically incorporated while building this website are developed exclusively within this Hackout Hackathon timeline period.
+We also worked totally on writing the javascript code and built the unique Live Chatbot Supporting System only during the stipulated period of this Hackathon.
+Apart from that the actual HTML and CSS coding editing for providing necessary informations and details were exclusively done by my teammmates today itself,I can assure about that.
+Due to less time and integrating so many features within our website during this time bound hackathon, we regret to not provide the live site deployment link in the Devfolio Submission.
+But our project ran successfully on our local server of VSCode  and from there we recorded the total working of our project, explained specifically and concisely and shared the necessary video links during submission
 
 # WEB DEVELOPMENT PROJECT - Bharat Combat Forces
 
