@@ -3,6 +3,7 @@
 Website Development Project for Hackout Hackathon
  
 # TEAM NAME - Eklavya Hackers
+
 TEAM LEADER - Soumalya Bhattacharyya(Github Username - soubhatta19)
 
 2nd TEAMMATE - Soumik Ghosh(GitHub Username - Soumik-Ghosh07)
@@ -10,7 +11,8 @@ TEAM LEADER - Soumalya Bhattacharyya(Github Username - soubhatta19)
 2nd TEAMMATE - Ashish Manna(GitHub Username - Bidyut2022)
 
 # PROJECT TOPIC - Disaster Management Platform
-Crisis Recovery/Disaster Response Systems
+
+Crisis Recovery/Disaster Response Systems for calamity affected people
 
 # DECLARATION -
 
